@@ -1,4 +1,4 @@
-﻿namespace Avanade.SubTCSE.Projeto.Domain.Aggregates.EmployeeRole.Interfaces.Repository
+﻿namespace Avanade.SubTCSE.Projeto.Domain.Aggregates.EmployeeRole.Interfaces.Repositories
 {
     public interface IEmployeeRoleRepository
     {
