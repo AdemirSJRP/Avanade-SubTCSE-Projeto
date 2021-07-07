@@ -1,7 +1,7 @@
 ﻿using Avanade.SubTCSE.Projeto.Domain.Base.Repository.MongoDB;
 using MongoDB.Driver;
 
-namespace Avanade.SubTCSE.Projeto.Data.Repositores.Base.MongoDB
+namespace Avanade.SubTCSE.Projeto.Infra.Data.Repositores.Base.MongoDB
 {
     public class MongoDBContext : IMongoDBContext
     {
